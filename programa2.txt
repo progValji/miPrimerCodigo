@@ -1,4 +1,0 @@
-Hola mundo 
-A Valji le gusta el mundo de la programacion
-Quiero estudiar informatica o programacion
-Hice un reloj con arduino 
